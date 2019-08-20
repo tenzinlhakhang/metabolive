@@ -265,7 +265,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = html.Div([navbar,jumbotron,dropdown,button,hidden_div,volcano_graph,heatmap_graph,pca_graph,table])
 app.config['suppress_callback_exceptions']=True
 
-
+server = app.server
 
 @app.callback(
     dash.dependencies.Output('intermediate-value', 'children'),
