@@ -495,7 +495,7 @@ def update_output(n_clicks,value):
 def update_table(jsonified_cleaned_data):
     dff = pd.read_json(jsonified_cleaned_data[0]) # or, more generally json.loads(jsonified_cleaned_data)
     html_object =  html.Div([
-            dbc.Table.from_dataframe(dff.iloc[:, 10: 20], striped=True, bordered=True, hover=True),
+            dbc.Table.from_dataframe(dff.iloc, striped=True, bordered=True,responsive=True, hover=True),
             ])
     return (html_object)
 
