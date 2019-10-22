@@ -1,22 +1,1 @@
-File,id,Group
-S05601,1e6 per mL 1,1e6 per mL
-S05602,1e6 per mL 2,1e6 per mL
-S05603,1e6 per mL 3,1e6 per mL
-S05604,1_RPMI_PBS,RPMI_PBS
-S05605,2_RPMI_PBS,RPMI_PBS
-S05606,3_RPMI_PBS,RPMI_PBS
-S05607,1_PBS_PBS,PBS_PBS
-S05608,2_PBS_PBS,PBS_PBS
-S05609,3_PBS_PBS,PBS_PBS
-S05610,1_RPMI_RPMI,RPMI_RPMI
-S05611,2_RPMI_RPMI,RPMI_RPMI
-S05612,3_RPMI_RPMI,RPMI_RPMI
-S05613,1_PBS_RPMI,PBS_RPMI
-S05614,2_PBS_RPMI,PBS_RPMI
-S05615,3_PBS_RPMI,PBS_RPMI
-SQ363_B_0,Blank_0,Blank
-SQ363_B_1,Blank_1,Blank
-SQ363_B_2,Blank_2,Blank
-SQ363_B_3,Blank_3,Blank
-SQ363_B_4,Blank_4,Blank
-SQ363_B_5,Blank_5,Blank
+File,id,GroupSDRJ001,Light Roast 1,Light RoastSDRJ002,Light Roast 2,Light RoastSDRJ003,Light Roast 3,Light RoastSDRJ004,Med Roast 1,Med RoastSDRJ005,Med Roast 2,Med RoastSDRJ006,Med Roast 3,Med RoastSDRJ007,Dark Roast 1,Dark RoastSDRJ008,Dark Roast 2,Dark RoastSDRJ009,Dark Roast 3,Dark RoastSQ1_B_1,Blank_1,BlankSQ1_B_2,Blank_2,BlankSQ1_B_3,Blank_3,BlankSQ1_B_4,Blank_4,BlankSQ1_B_5,Blank_5,BlankSQ1_B_6,Blank_6,BlankSQ1_B_7,Blank_7,BlankSQ1_B_8,Blank_8,Blank
