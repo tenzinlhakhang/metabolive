@@ -52,7 +52,7 @@ from time import sleep
 from scipy import *
 from scipy import stats
 from sklearn.decomposition import PCA
-import plotly.plotly as py
+import chart_studio.plotly as py
 #%matplotlib inline
 import plotly
 #plotly.offline.init_notebook_mode() # To embed plots in the output cell of the notebook
